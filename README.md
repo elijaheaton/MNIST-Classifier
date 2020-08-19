@@ -1,5 +1,5 @@
 # MNIST-Classifier
-A neural network to classify the MNIST collection of handwritten numbers.
+A neural network to classify the MNIST collection of handwritten numbers using TensorFlow.
 The version 1 network, created on June 19, 2020 runs at about a 90% success rate, 
 which is less than the average rate for human comprehension. See Wikipedia for details:
 
